@@ -17,6 +17,7 @@ The final swapped 64-bit data block is subjected to an inverse initial permutati
 This permutation undoes the initial rearrangement and produces the 64-bit ciphertext.
 CIPHERTEXT:
 The 64-bit ciphertext is the output of the DES encryption process.
+
 KEY GENERATION:
 INITIAL KEY PROCESSING:
 A 64-bit encryption key is provided, but only 56 bits are used for actual encryption.
