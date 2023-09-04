@@ -31,4 +31,8 @@ The new 56-bit key is further compressed using a compression permutation (compre
 
 OUTPUT:
 
+![des_example1](https://github.com/Neeraja-Kallamadi/DES-Data-Encryption-Standard-/assets/110168775/729c3ea2-be09-47a7-a4da-9883f6f29cdd)
+
+![des_example2](https://github.com/Neeraja-Kallamadi/DES-Data-Encryption-Standard-/assets/110168775/94e9cfb0-e5cd-438d-b934-541b5c998da7)
+
 ![DES Output](https://github.com/Neeraja-Kallamadi/DES-Data-Encryption-Standard-/assets/110168775/854d3396-e220-4aaa-a9f1-1724b36fc4bb)
