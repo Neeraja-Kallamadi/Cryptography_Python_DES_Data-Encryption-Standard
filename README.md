@@ -1,4 +1,4 @@
-# DES-Data-Encryption-Standard
+# DES (DATA ENCRYPTION STANDARD)
 DES ALGORITHM PROCEDURE:
 INITIAL PERMUTATION (IP):
 At the outset, a 64-bit plaintext message undergoes an initial permutation.
@@ -30,7 +30,7 @@ ROUND-SPECIFIC KEY GENERATION:
 The new 56-bit key is further compressed using a compression permutation (compression D-box) to generate a unique 48-bit subkey for each round of encryption.
 
 
-OUTPUT:
+# OUTPUT:
 
 ![des_algorithm1](https://github.com/Neeraja-Kallamadi/DES-Data-Encryption-Standard-/assets/110168775/cb27a906-660a-411a-90b8-98c38aadef6b)
 
