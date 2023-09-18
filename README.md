@@ -24,6 +24,7 @@ The 64-bit ciphertext is the output of the DES encryption process.
 
 
 KEY GENERATION:
+
 INITIAL KEY PROCESSING:
 A 64-bit encryption key is provided, but only 56 bits are used for actual encryption.
 The initial key undergoes a process called the parity drop table, resulting in a 56-bit key.
